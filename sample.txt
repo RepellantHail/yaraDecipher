@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+    int x = 10;
+    int y = 5;
+    int res = x + y;
+    std::cout << "Resultado Suma\t"<< res << std::endl;
+    return 0;
+}
